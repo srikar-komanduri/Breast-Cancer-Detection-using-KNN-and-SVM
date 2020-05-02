@@ -1,4 +1,4 @@
-# cancer-detection-using-KNN-and-SVM
+# Breast Cancer-detection-using-KNN-and-SVM
 
 This project is just for practice purpose. 
 
